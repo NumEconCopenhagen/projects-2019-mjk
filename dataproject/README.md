@@ -6,4 +6,4 @@ The motivation for investigating this, is that exchange rates have a big impact 
 
 In the first part of the project we download and structure data from Denmark Statistics table DNVALA. To get an overview, the descriptive analysis is carried and visualized through a boxplot. Afterwards the absolute and relative development of the exchange rates are illustrated graphically through plots.
 
-For detailed explanation we refer to the notebook where the code I contained.   
+For detailed explanation we refer to the notebook where the code is contained.   
