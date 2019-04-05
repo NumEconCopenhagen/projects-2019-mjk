@@ -1,4 +1,4 @@
-# Dataproject
+# Dataproject - Development in exchange rates from 1999 to 2018
 
 This project investigates the development from 1999 to 2018 for the following exchange rates; EUR, USD, GBP, CHF, CAD and AUD (measured in DKK per 100 units currency) by descriptive statistics and making an index in order to see the relative development. 
 
