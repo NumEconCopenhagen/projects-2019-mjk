@@ -1,3 +1,3 @@
 # Examproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+We have answered the exam questions in examproject.ipynb. There is no need to download additional dependencies.
